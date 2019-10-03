@@ -1,4 +1,4 @@
-# Pablo ORT Website
+# Pablo ORTG Website
 This is the official repository for my website : https://pablortg.ovh
 
 This is the repository of my website. I used a responsive blog theme, Clean Blog for Bootstrap created by Start Bootstrap. This theme features a blog homepage, about page, contact page, and an example post page along with a working PHP contact form.
