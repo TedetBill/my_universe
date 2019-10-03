@@ -1,5 +1,6 @@
 # Don't track content of these folders and files
 node_modules/
 cv/common/package-lock.json
+package-lock.json
 sftp-config.json
 
